@@ -1,6 +1,6 @@
 # The Rise of KPOP
 
-https://observablehq.com/d/main
+https://observablehq.com/d/724d1f6ba0f19b02
 
 View this notebook in your browser by running a web server in this folder. For
 example:
