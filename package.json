@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "main": "main.js",
+  "version": "3063.0.0",
+  "homepage": "https://observablehq.com/d/main",
+  "author": {
+    "name": "khmchoi",
+    "url": "https://observablehq.com/@khmchoi"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
